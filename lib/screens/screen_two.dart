@@ -8,7 +8,7 @@ class SecondScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Second Screen'),
-      ),
+      ),//tlqkf
       body: Center(
         child: Container(
           child: Column(
